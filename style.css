@@ -1,0 +1,46 @@
+#Navigation{
+    background-color: black;
+    color:aliceblue;
+}
+#NameInput{
+    width:80%;
+    padding:12px 20px;
+    margin: 8px 0;
+  box-sizing: border-box;
+}
+#subjectInput{
+width:80%;
+padding:12px;
+margin: 8px 0;
+box-sizing: border-box;
+}
+#titleInput{
+width:80%;
+padding:12px 20px;
+margin: 8px 0;
+box-sizing: border-box;
+}
+#contentInput{
+width:80%;
+height:200px;
+padding:12px 20px;
+margin: 8px 0;
+box-sizing: border-box;
+}
+#inputs{
+text-align: center;
+}
+
+#submitBtn{
+    background-color: Black;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;   
+}
+
+@media screen and (max-width: px){
+
+}
